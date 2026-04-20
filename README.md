@@ -46,10 +46,4 @@ To use this application, you need your own Google Gemini API key. It is complete
 * **API:** Google Gemini API (`gemini-2.5-flash-preview-tts`)
 * **Audio Processing:** Native Web Audio API / PCM to WAV Blob conversion
 
-## 💻 Local Development & Usage
 
-Because this app runs entirely in the browser, there are no build steps or package managers required.
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/nepali-tts.git

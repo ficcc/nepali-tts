@@ -37,7 +37,6 @@ To use this application, you need your own Google Gemini API key. It is complete
 5. Copy the generated key (it usually starts with `AIzaSy...`).
 6. Paste this key into the API key field in the Nepali TTS Studio app.
 
-> **Security Note:** This application connects directly to the Google Gemini API from the browser. **Do not hardcode or commit your personal API key into this public repository.** The app is deliberately designed to ask the user to provide their key during the session so your credentials stay secure.
 
 ## 🛠️ Technical Stack
 

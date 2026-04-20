@@ -4,7 +4,8 @@ A lightweight, zero-dependency web application that converts Nepali text into na
 
 Built entirely with client-side technologies, this tool allows users to generate high-fidelity audio without requiring complex backend infrastructure or servers.
 
-![Screenshot placeholder - add an image of your app here](docs/screenshot.png)
+<img width="953" height="888" alt="image" src="https://github.com/user-attachments/assets/d1910713-cc8a-4921-bf45-fc4ec73e6775" />
+
 
 ## ✨ Features
 

@@ -24,7 +24,7 @@ Built entirely with client-side technologies, this tool allows users to generate
 ## 🚀 Live Demo
 
 [View the Live Demo Here](https://ficcc.github.io/nepali-tts/) 
-*(Update this link with your actual GitHub Pages URL)*
+
 
 ## 🔑 How to Get a Free Gemini API Key
 
